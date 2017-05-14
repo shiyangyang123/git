@@ -73,3 +73,4 @@ ignore-missing      check if - even missing - files are ignored in dry run
 git reset --hard HEAD~5 删服务器上的commit记录
 git push origin HEAD --force 提交
 
+git reset --hard <commit_id> 删除一个
